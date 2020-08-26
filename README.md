@@ -30,7 +30,7 @@
 ## Instructions
 ### Dissolving the Sugar in Coconut Cream
 - In a small cup, mix the Salt and Milk until the salt is mostly dissolved in the Milk.
-- In a small pot on a gentle low heat[3], mix the salted Milk and Coconut Cream and Sugars.
+- In a small pot on a gentle low heat[3], mix the salted Milk, Coconut Cream and Sugars.
 - Mix until you reach a homogeneous mixture, and remove from heat.
 
 ### Mixing the Fats and Cream
