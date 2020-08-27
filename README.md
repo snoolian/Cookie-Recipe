@@ -7,9 +7,8 @@
 - 165gr Brown Sugar[0]
 
 ### Cream
-- 60gr Coconut Cream
+- 30gr Coconut Cream
 - 10gr Milk[1]
-- 1 Teaspoon of Salt
 
 ### Oils and Fats
 - 60gr Coconut Oil
@@ -17,6 +16,7 @@
 
 ### Flavoring
 - 30ml 40% Dark Rum
+- 1 Teaspoon of Salt
 
 ### Bake
 - 185gr White Flour
